@@ -1,7 +1,8 @@
 Package.describe({
-    name: 'validatejs',
+    name: 'lancelotsmith:validatejs',
     summary: 'OHIF Validatejs temporary',
-    version: '0.0.1'
+    version: '0.0.1',
+    git:"https://github.com/lancelotsmith/validatejs.git"
 });
 
 Package.onUse(function(api) {
